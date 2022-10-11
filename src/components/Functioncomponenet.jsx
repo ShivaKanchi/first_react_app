@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-
 const Functioncomponent = (props) => {
     const [count, setCount] = useState(0);
     const [changename, setChangeName] = useState("");
@@ -15,5 +14,4 @@ const Functioncomponent = (props) => {
         </div>
     );
 };
-
 export default Functioncomponent;
