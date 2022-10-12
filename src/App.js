@@ -1,10 +1,8 @@
 import Classcomponent from './components/Classcomponent';
 import './App.css';
 import Functioncomponent from './components/Functioncomponenet';
-import { useState } from 'react';
 
 function App() {
-  const [name, setName] = useState("Shiva");
   return (
     <div className="App">
       <header className="App-header">
@@ -12,7 +10,7 @@ function App() {
         <Classcomponent />
         <br />
         <h1>Functional Component</h1>
-        <Functioncomponent name={name} age={20} setName={setName} />
+        <Functioncomponent />
       </header>
     </div>
   );
