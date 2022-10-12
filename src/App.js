@@ -1,7 +1,6 @@
 import Classcomponent from './components/Classcomponent';
 import './App.css';
 import Functioncomponent from './components/Functioncomponenet';
-
 function App() {
   return (
     <div className="App">

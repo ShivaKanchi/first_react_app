@@ -2,6 +2,7 @@ import React, { useState } from "react";
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 function Functioncomponent() {
     const Functioncomponent = (props) => {
         const [count, setCount] = useState(0);
@@ -16,6 +17,8 @@ function Functioncomponent() {
         );
     }
 =======
+=======
+>>>>>>> parent of bde78c0 (States and props did)
 const Functioncomponent = (props) => {
 =======
 function Functioncomponent() {
@@ -33,8 +36,11 @@ function Functioncomponent() {
 <<<<<<< HEAD
 >>>>>>> parent of bde78c0 (States and props did)
 };
+<<<<<<< HEAD
 =======
 }
 >>>>>>> parent of b6324ea (Props used)
+=======
+>>>>>>> parent of bde78c0 (States and props did)
 
 export default Functioncomponent;
